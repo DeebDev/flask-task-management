@@ -1,0 +1,10 @@
+Flask
+SQLAlchemy
+psycopg2-binary
+Flask-SQLAlchemy
+python-dotenv
+python-decouple
+Flask-Login
+Flask-admin
+Flask-RESTful
+PyJWT
